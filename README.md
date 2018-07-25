@@ -1,16 +1,4 @@
 # Scotia Workshop
-
-
-
-						Java Classes
-							|
-							|
-                            V
-Configuration ----> [Application Context] ---> APP\
-- XML					Spring Beans
-- JavaConfig
-- Annotations (@RestController, @RequestMaping)
-- application.properties
 						
 
 Spring Boot						
